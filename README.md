@@ -36,6 +36,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Ifake257/Ifake257/output/snake.svg" alt="Snake animation" />
+
 
 ###
